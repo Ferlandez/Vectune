@@ -20,6 +20,8 @@
 
 **Vectune** est un logiciel Windows en développement, destiné à la calibration et à la reprogrammation des ECU Honda K-series.
 
+Ce projet est le fruit de **plusieurs années de travail**, mené à temps perdu, par passion.
+
 > 🔒 **Projet à usage personnel pour le moment.** Le logiciel n'est pas distribué et n'est pas offert au public.
 
 Ce dépôt est la **vitrine du projet** : on y suit l'avancement, les captures d'écran et les annonces. Le code source n'est pas public.
