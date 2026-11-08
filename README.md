@@ -1,3 +1,5 @@
+<p align="center"><b>🇫🇷 Français</b> · <a href="README.en.md">🇬🇧 English</a></p>
+
 <h1 align="center">Vectune*</h1>
 
 <p align="center">
