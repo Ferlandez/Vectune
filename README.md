@@ -33,6 +33,8 @@ Ce dépôt est la **vitrine du projet** : on y suit l'avancement, les captures d
 
 > 🎁 **Bientôt : une version gratuite !**
 > Nous travaillons actuellement sur une version **entièrement gratuite** du logiciel, dédiée au **diagnostic** (lecture des codes défaut) et au **suivi des données en temps réel** (live data). Elle sera disponible sous peu.
+>
+> 🔌 Le diagnostic se fera directement par la **prise OBD2** du véhicule, avec une interface **Tactrix OpenPort 2.0**.
 
 ---
 
@@ -79,7 +81,7 @@ Le détail de chaque version est dans le [journal des changements](CHANGELOG.md)
 
 Projet en développement. Toute intervention sur un ECU comporte des risques. Utilisation à vos propres risques.
 
-Honda, Acura et K-series sont des marques de leurs propriétaires respectifs. Vectune n'est ni affilié à Honda, ni approuvé par Honda.
+Honda, Acura, K-series, Tactrix et OpenPort sont des marques de leurs propriétaires respectifs. Vectune n'est ni affilié à ces entreprises, ni approuvé par elles.
 
 ---
 

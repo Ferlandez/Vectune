@@ -33,6 +33,8 @@ This repository is the **project showcase**: it follows progress, screenshots an
 
 > 🎁 **Coming soon: a free version!**
 > We are currently working on a **completely free** version of the software, dedicated to **diagnostics** (trouble code reading) and **live data tracking**. It will be available soon.
+>
+> 🔌 Diagnostics will work directly through the vehicle's **OBD2 port**, using a **Tactrix OpenPort 2.0** interface.
 
 ---
 
@@ -79,7 +81,7 @@ Details for each version are in the [changelog](CHANGELOG.md) (in French).
 
 Project in development. Any work on an ECU carries risks. Use at your own risk.
 
-Honda, Acura and K-series are trademarks of their respective owners. Vectune is not affiliated with or endorsed by Honda.
+Honda, Acura, K-series, Tactrix and OpenPort are trademarks of their respective owners. Vectune is not affiliated with or endorsed by these companies.
 
 ---
 

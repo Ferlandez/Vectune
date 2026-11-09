@@ -14,7 +14,7 @@ Suivi de l'avancement de **Vectune**, version par version.
 - Thème sombre / clair
 
 ### Prévu
-- Version gratuite : diagnostic (codes défaut) et données en temps réel
+- Version gratuite : diagnostic (codes défaut) et données en temps réel par la prise OBD2, avec une interface Tactrix OpenPort 2.0
 - Datalog
 - Lecture de l'ECU
 - Reprogrammation de l'ECU
