@@ -32,14 +32,17 @@ Ce dépôt est la **vitrine du projet** : on y suit l'avancement, les captures d
 
 ## 📸 Aperçu
 
-*Captures d'écran à venir.*
+<p align="center">
+  <img src="screenshots/diagnostic.jpg" alt="Diagnostic et visualisation 2D" width="100%"><br>
+  <sub>Diagnostic : lecture des codes défaut, avec la visualisation 2D d'une table de calibration</sub>
+</p>
 
-<!--
-Pour ajouter une capture : déposer l'image dans le dossier screenshots/,
-puis ajouter une ligne comme celle-ci :
+<p align="center">
+  <img src="screenshots/visualisation-3d.jpg" alt="Visualisation 3D" width="100%"><br>
+  <sub>Visualisation 3D d'une table de calibration (rotation et zoom à la souris)</sub>
+</p>
 
-![Éditeur de calibration](screenshots/editeur.png)
--->
+<sub>Certains détails techniques ont été volontairement masqués.</sub>
 
 ---
 

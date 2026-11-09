@@ -32,7 +32,17 @@ This repository is the **project showcase**: it follows progress, screenshots an
 
 ## 📸 Preview
 
-*Screenshots coming soon.*
+<p align="center">
+  <img src="screenshots/diagnostic.jpg" alt="Diagnostics and 2D visualization" width="100%"><br>
+  <sub>Diagnostics: trouble code reading, with the 2D view of a calibration table</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/visualisation-3d.jpg" alt="3D visualization" width="100%"><br>
+  <sub>3D view of a calibration table (mouse rotation and zoom)</sub>
+</p>
+
+<sub>Some technical details have been intentionally hidden.</sub>
 
 ---
 
