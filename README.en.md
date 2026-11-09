@@ -28,6 +28,9 @@ This project is the result of **several years of work**, done in spare time, out
 
 This repository is the **project showcase**: it follows progress, screenshots and announcements. The source code is not public.
 
+> 🎁 **Coming soon: a free version!**
+> We are currently working on a **completely free** version of the software, dedicated to **diagnostics** (trouble code reading) and **live data tracking**. It will be available soon.
+
 ---
 
 ## 📸 Preview
@@ -60,7 +63,8 @@ This repository is the **project showcase**: it follows progress, screenshots an
 
 - [x] Calibration editor
 - [x] Basic diagnostics
-- [ ] Live data and datalogging
+- [ ] Free version: diagnostics and live data *(coming soon)*
+- [ ] Datalogging
 - [ ] ECU reading
 - [ ] ECU reflashing
 

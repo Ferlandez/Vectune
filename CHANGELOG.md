@@ -14,6 +14,7 @@ Suivi de l'avancement de **Vectune**, version par version.
 - Thème sombre / clair
 
 ### Prévu
-- Données en temps réel et datalog
+- Version gratuite : diagnostic (codes défaut) et données en temps réel
+- Datalog
 - Lecture de l'ECU
 - Reprogrammation de l'ECU

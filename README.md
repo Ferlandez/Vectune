@@ -28,6 +28,9 @@ Ce projet est le fruit de **plusieurs années de travail**, mené à temps perdu
 
 Ce dépôt est la **vitrine du projet** : on y suit l'avancement, les captures d'écran et les annonces. Le code source n'est pas public.
 
+> 🎁 **Bientôt : une version gratuite !**
+> Nous travaillons actuellement sur une version **entièrement gratuite** du logiciel, dédiée au **diagnostic** (lecture des codes défaut) et au **suivi des données en temps réel** (live data). Elle sera disponible sous peu.
+
 ---
 
 ## 📸 Aperçu
@@ -60,7 +63,8 @@ Ce dépôt est la **vitrine du projet** : on y suit l'avancement, les captures d
 
 - [x] Éditeur de calibration
 - [x] Diagnostic de base
-- [ ] Données en temps réel et datalog
+- [ ] Version gratuite : diagnostic et données en temps réel *(bientôt)*
+- [ ] Datalog
 - [ ] Lecture de l'ECU
 - [ ] Reprogrammation de l'ECU
 
