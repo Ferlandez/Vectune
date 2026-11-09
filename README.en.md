@@ -35,6 +35,7 @@ This repository is the **project showcase**: it follows progress, screenshots an
 > We are currently working on a **completely free** version of the software, dedicated to **diagnostics** (trouble code reading) and **live data tracking**. It will be available soon.
 >
 > 🔌 Diagnostics will work directly through the vehicle's **OBD2 port**, using a **Tactrix OpenPort 2.0** interface.
+> Other OBD2 adapters may also work, but they have not been tested.
 
 ---
 
