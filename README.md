@@ -1,11 +1,14 @@
 <p align="center"><b>🇫🇷 Français</b> · <a href="README.en.md">🇬🇧 English</a></p>
 
-<h1 align="center">Vectune*</h1>
-
 <p align="center">
-  <b>K-Series Calibration Suite</b><br>
-  Logiciel de calibration et de reprogrammation pour ECU Honda K-series
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+    <img src="assets/logo-light.png" alt="Vectune — K-Series Calibration Suite" width="520">
+  </picture>
 </p>
+
+<p align="center">Logiciel de calibration et de reprogrammation pour ECU Honda K-series</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/plateforme-Windows-0078D6" alt="Plateforme">
@@ -14,7 +17,7 @@
   <img src="https://img.shields.io/badge/usage-personnel-lightgrey" alt="Usage personnel">
 </p>
 
-<p align="center"><sub>* Nom de travail provisoire : le nom du logiciel pourrait changer avant sa sortie officielle.</sub></p>
+<p align="center"><sub>« Vectune » est un nom de travail provisoire : il pourrait changer avant la sortie officielle.</sub></p>
 
 ---
 
