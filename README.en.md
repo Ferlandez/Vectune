@@ -21,6 +21,17 @@
 
 ---
 
+## 🚀 Latest major milestone
+
+**Vectune can now open and edit real calibration files (ROMs)!**
+
+- Fuel and ignition tables and engine limits are read directly from the file, organized by category.
+- Every edit is applied in real time, with undo / redo.
+- A color indicator shows the confidence level of each table (confirmed, probable, unknown).
+- **Safety first:** the original file is never overwritten, sensitive areas are protected as read-only, and Vectune clearly warns when a modified file is not ready to be programmed into an ECU.
+
+---
+
 ## 🔎 About
 
 **Vectune** is a Windows application in development, designed for calibrating and reflashing Honda K-series ECUs.
@@ -59,6 +70,9 @@ This repository is the **project showcase**: it follows progress, screenshots an
 
 - Calibration table editing
 - 2D and 3D visualization
+- Open and edit real calibration files (ROMs)
+- Tables organized by category, with a confidence indicator
+- Safe saving: the original is never overwritten
 - Open and save calibrations
 - Trouble code reading
 - Dark / light theme
@@ -69,6 +83,7 @@ This repository is the **project showcase**: it follows progress, screenshots an
 
 - [x] Calibration editor
 - [x] Basic diagnostics
+- [x] Open and edit real ROM files
 - [ ] Free version: diagnostics and live data *(coming soon)*
 - [ ] Datalogging
 - [ ] ECU reading
